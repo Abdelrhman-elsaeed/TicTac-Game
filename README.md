@@ -1,15 +1,14 @@
 # Tic-Tac-Toe Game
 
 
-*(It's recommended to add a screenshot of your game here)*
+![_-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/44e53005-a555-467e-a338-c1f62424b5cc)
+
 
 A classic Tic-Tac-Toe game project developed using **C#** and **Windows Forms**. The game is designed for two players (Player 1 'X' and Player 2 'O') who take turns marking the spaces on a 3x3 grid.
 
 ---
 
 ## 🎮 Key Features
-
-Based on the provided code, here are the main functionalities:
 
 * **Two-Player System:** Supports two players (Player 1 and Player 2).
 * **Turn Tracking:** The UI displays whose turn it is ("Turn: Player 1" / "Turn: Player 2").
@@ -35,7 +34,22 @@ Based on the provided code, here are the main functionalities:
 
 ---
 
-## 🚀 How to Run the Project
+## 🚀 How to Run
+
+There are two ways to run this game:
+
+### Method 1: (Easy Way - Recommended)
+
+You can download the ready-to-play `.exe` file directly from the **Releases** section of this repository.
+
+1.  Go to the [**Releases**]([https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases](https://github.com/Abdelrhman-elsaeed/TicTac-Game/releases/tag/v1.0.0)) tab.
+    *(Note: Replace with your actual repository link)*
+2.  Download the `.zip` file containing the game.
+3.  Unzip the file and run `TicTacToe.exe`.
+
+### Method 2: (From Source Code)
+
+If you want to view or modify the code, you can run it from Visual Studio.
 
 1.  Clone or download the project files.
 2.  Open the solution file (`.sln`) using **Visual Studio**.
