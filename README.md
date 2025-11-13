@@ -43,7 +43,6 @@ There are two ways to run this game:
 You can download the ready-to-play `.exe` file directly from the **Releases** section of this repository.
 
 1.  Go to the [**Releases**]([https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases](https://github.com/Abdelrhman-elsaeed/TicTac-Game/releases/tag/v1.0.0)) tab.
-    *(Note: Replace with your actual repository link)*
 2.  Download the `.zip` file containing the game.
 3.  Unzip the file and run `TicTacToe.exe`.
 
